@@ -1,0 +1,7 @@
+
+
+So far we learned Git , to commit and push.
+
+And :
+
+remote --> local
